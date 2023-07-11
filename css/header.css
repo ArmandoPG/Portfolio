@@ -1,12 +1,14 @@
+
 .mainHeader {
     display: flex;
     width: 100%;
-    background-color: red;
+    /* background-color: red; */
     justify-content: center;
 }
 
 .menu {
-    background-color: aqua;
+    
+    /* background-color: aqua; */
     width: 80%;
     align-items: center;
     display: flex;
@@ -14,21 +16,24 @@
 }
 
 .imgHeader {
-    width: 5%;
+    width: 15%;
 }
 
 .aHeader{
+    color: var(--color-text-nav);
     text-decoration: none;
 }
 
 .ulHeader {
     display: flex;
-    font-family: Raleway;
+    font-family: var(--font-roleway);
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
     gap: 32px;
-    
 }
 
+.aHeader:hover{
+    color: var(--color-hover);
+}
