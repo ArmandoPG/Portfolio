@@ -1,0 +1,14 @@
+.mainHeader{
+    display: flex;
+    width: 100%;
+    background-color: red;
+    justify-content: center;
+}
+
+.menu{
+    background-color: aqua;
+    width: 80%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
