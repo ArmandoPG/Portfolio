@@ -1,0 +1,8 @@
+.study{
+    width: 100%;
+    background-color: var(--color-gb-blue);
+    display: flex;
+    justify-content: center;
+    padding: 3% 0;
+}
+

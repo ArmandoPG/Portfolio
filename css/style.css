@@ -1,6 +1,13 @@
 :root{
+    /* background-color: #F5F5F5; */
     width: 100%;
     --color-text: #464646;
     --font-roleway:'Raleway', sans-serif;
     --color-hover: #5800FF;
+    --color-gb-blue: #EAF2FD;
+    --font-size-title: 2rem;
+    --font-size-p: 1.2rem;
+    --color-bg-section: #F5F5F5;
+    --color-gb-white: #FFFFFF;
+
 }
