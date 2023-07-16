@@ -30,7 +30,7 @@
 
 .cards{
     width: 20%;
-    height: 15vh;
+    height: 10vh;
     display: flex;
     flex-direction: column;
     background-color:var(--color-gb-white);
