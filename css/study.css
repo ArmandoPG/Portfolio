@@ -27,16 +27,18 @@ padding: 2% 0;
 }
 
 .cardSchool{
-    width: 26%;
+    width: 368px;
+    height: 268px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: var(--color-gb-white);
     border-radius: 10%;
+    /* flex-wrap: nowrap; */
 }
 
 .imgSchool{
-    width: 200px;
+    width: 150px;
 }
 
 .containerDates{
