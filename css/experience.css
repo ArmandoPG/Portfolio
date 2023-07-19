@@ -24,7 +24,6 @@
     padding: 40px 0px;
     width: 85%;
     /* background-color: aqua; */
-    /* flex-direction: row-reverse; */
 }
 
 .containerExpRight{
@@ -49,6 +48,7 @@
     align-items: flex-start;
     justify-content: center;
     gap: 16px;
+    padding: 0 2%;
 }
 
 .bntRepo{
